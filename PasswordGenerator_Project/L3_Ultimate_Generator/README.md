@@ -77,7 +77,3 @@ L3 Ultimate_Generator/
 Want to improve this tool? Add CLI flags, file-saving, or GUI support — then submit a pull request!
 
 ---
-
-Make your passwords smarter, stronger, and fully under your control 🔐🚀
-
-```

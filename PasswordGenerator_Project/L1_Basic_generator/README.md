@@ -64,10 +64,3 @@ PasswordGenerator_Project/
 Feel free to fork the repo and submit a pull request if you’d like to enhance the functionality or add features!
 
 ---
-
-This is a beginner-friendly utility — simple and straight to the point!
-
-```
-
----
-

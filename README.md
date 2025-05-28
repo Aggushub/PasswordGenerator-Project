@@ -67,8 +67,7 @@ python Password_gen_basic.py
 
 ### 💡 Example Output
 
-![L1 Screenshot](./L1_Basic_generator/Screenshot%20\(72\).png)
-
+![L1 Screenshot](./Screenshot%20\(72\).png)
 ---
 
 ## 🛠 L2: Advanced Password Generator
@@ -90,7 +89,7 @@ python Password_gen_advanced.py
 
 ### 💡 Example Output
 
-![L2 Screenshot](./L2_Advanced_generator/Screenshot%20\(75\).png)
+![L2 Screenshot](./Screenshot%20\(75\).png)
 
 ---
 
@@ -114,7 +113,7 @@ python Password_gen_ult.py
 
 ### 💡 Example Output
 
-![L3 Screenshot](./L3_Ultimate_Generator/Screenshot%20\(76\).png)
+![L3 Screenshot](./Screenshot%20\(76\).png)
 
 ---
 

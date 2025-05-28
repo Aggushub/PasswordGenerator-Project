@@ -83,7 +83,3 @@ L2 Advanced_generator/
 Want to improve this tool? Fork the repo, add features (like saving to file or GUI support), and send a pull request!
 
 ---
-
-Upgrade your password generation game with precision control! 🔐✨
-
-```
